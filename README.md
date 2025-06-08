@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @JLiwoso
-- 👀 I’m interested in everything which are bound to data
-- 🌱 I’m currently learning Structured Query Language
-- 💞️ I’m looking to collaborate on the Development of my web app
-- 📫 How to reach me liwosojj@gmail.com or +243 812164150 (whatsapp)
-- 😄 I hope you'll see this 
+- 👀 I’m interested in everythings which are bound to data
 - ⚡ have a good one🙏🏾
 
 <!---
